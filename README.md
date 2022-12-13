@@ -9,8 +9,6 @@ This program may be done using functions
 
 3. WAP to create a pyramid of the character "*" and a reverse pyramid
    
-   ![python2](https://user-images.githubusercontent.com/101046816/192342609-7dab8fda-c0f5-4f02-b5a3-6fa1ec75b506.jpeg)
-
 4. WAP that accepts a character and performs the following:
    
  - print whether the character is a letter or numeric digit or a special character
